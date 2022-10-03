@@ -30,9 +30,15 @@ namespace WpfApp2
 
 
             Console.Beep(); //// sssss
+
             MessageBox.Show("Git3333223123123333333");
+            MessageBox.Show("Git3333223123123333333");
+            MessageBox.Show("Git33332231231233333222233");
+            MessageBox.Show("Git333322312312333333323333333");
+            MessageBox.Show((1+2).ToString());
+
             ///sdasd
-            
+
 
 
         }
