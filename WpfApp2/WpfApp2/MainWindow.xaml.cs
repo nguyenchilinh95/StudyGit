@@ -27,12 +27,8 @@ namespace WpfApp2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-<<<<<<< HEAD
-            MessageBox.Show("Git3");///ss
-=======
-            //ABCCC
->>>>>>> 7628f35d212f48de9c9137b90901f43cd51bcd38
-            //Commit by gitbash
+            MessageBox.Show("Git3");//////sssssssssssssss\
+            // conflict code
         }
     }
 }
