@@ -30,7 +30,7 @@ namespace WpfApp2
 
 
             MessageBox.Show("Git111231233333");
-            MessageBox.Show("Git333333");
+            MessageBox.Show("Thy_Linh");
             ///sdasd
 
 
