@@ -28,13 +28,9 @@ namespace WpfApp2
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-<<<<<<< HEAD
 
-            MessageBox.Show("Git6");//////sssssssssssssss\sdasdasdasdasdgit
+            MessageBox.Show("Git111");//////sssssssssssssss\sdasdasdasdasdgit
 
-=======
-            MessageBox.Show("Git6");//////sssssssssssssss\sdasdasdasdasdgit
->>>>>>> c4ce815099ded0b343939bbb464277263fe9e90c
 
         }
     }
