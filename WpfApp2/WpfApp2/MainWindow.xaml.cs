@@ -29,9 +29,10 @@ namespace WpfApp2
         {
 
 
-            MessageBox.Show("Git111231233333");
-            MessageBox.Show("Thy_Linh");
+            Console.Beep(); //// sssss
+            MessageBox.Show("Git3333223123123333333");
             ///sdasd
+            
 
 
         }
