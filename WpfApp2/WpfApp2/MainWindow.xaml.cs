@@ -28,7 +28,7 @@ namespace WpfApp2
         private void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            MessageBox.Show("Git3");///ss
+            MessageBox.Show("Git6");///ss
 
         }
     }
