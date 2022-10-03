@@ -34,7 +34,7 @@ namespace WpfApp2
             MessageBox.Show("Git33332232323333333");//ssss
             MessageBox.Show("(221 + 22223).ToString()");///s
             MessageBox.Show((221 + 22223).ToString());//sss
-            MessageBox.Show("(1+2).ToString()312312333333323333333");//ssss
+            MessageBox.Show("(1+2).Nguyeenx chi Linh3");//ssss
 
             MessageBox.Show((1+2).ToString());
             //sss
