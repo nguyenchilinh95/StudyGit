@@ -1,0 +1,53 @@
+1)------------------------ Xet đường dân  $ cd 'duong dan'------------------------------------------
+
+2) -------------------------------------------------config tài khoản -------------------------------
+- $ ssh-keygen -t ed25519 -C "Ten mail dang dung"
+- $ clip < ~/.ssh/id_ed25519.pub
+
+
+3) ----------------------Clone code về--------------------------
+
+
+- git clone: clone project từ server về câu lệnh (git clone 'Link project')
+
+4)--------------------
+
+- git add: Add các file vào để commit
+ + add *: Add tất cả các file (trừ các loại file khai báo trong .gitignore)
+ + add filename: add từng file hoặc từng thư mục (có thể add những file khai báo trong ignore)
+ ...
+ 
+- git commit: tạo commit
+ + git commit -am "Tên commit"
+ 
+- git restore: xóa những thay đổi hiện tại
+
+- git pull: lấy code từ server về
+ + git pull: lấy tất cả thay đổi của server về (code vẫn lấy ở nhánh hiện tại)
+ + git pull origin <branch>: lấy code từ 1 branch nào đó về
+ + Lưu ý: kiểm tra conflic
+
+- git push:
+ + git push: push lên origin
+ + git push origin <branch>: push code lên 1 nhánh nào đó
+ + Phải build được và không còn conflic mới được push
+
+- git checkout: chuyển nhánh
+ + git checkout -- .: Restore về hiện trạng của branch (chuyển về nhánh hiện tại, không giữ thay đổi)
+ + git checkout <branch>: chuyển đến 1 branch nào đó
+ + git checkout -b <branch>: tạo mới và chuyển đến branch
+
+- git status: hiện trạng thái 
+
+- git log: hiện lịch sử commit
+
+
+
+
+Quy trình push code:
+ 1. git add * hoặc git add <file>
+ 2. git commit -am "Tên commit"
+ 3. git pull hoặc git pull origin <branch>
+ 4. Kiểm tra và xử lý conflic
+ 5. git push hoặc git push origin <branch>
+ 
