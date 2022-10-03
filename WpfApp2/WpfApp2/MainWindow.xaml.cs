@@ -27,8 +27,14 @@ namespace WpfApp2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+<<<<<<< HEAD
             MessageBox.Show("Git3");//////sssssssssssssss\
             // conflict code
+=======
+
+            MessageBox.Show("Git6");///ss
+
+>>>>>>> 33f65bf65e95d57599a13ccc24183cb84da436ea
         }
     }
 }
