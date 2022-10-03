@@ -27,7 +27,7 @@ namespace WpfApp2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("Git3");
+            MessageBox.Show("Git3");///ss
             //Commit by gitbash
         }
     }
