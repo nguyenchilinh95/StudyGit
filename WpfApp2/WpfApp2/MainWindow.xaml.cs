@@ -27,6 +27,7 @@ namespace WpfApp2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+<<<<<<< HEAD
             MessageBox.Show("Git2");
 
             MessageBox.Show("Git");
@@ -45,6 +46,24 @@ namespace WpfApp2
             MessageBox.Show("Git123");
 
             double b = 1 + 2 + 4 + 1;
+=======
+
+
+            Console.Beep(); //// sssss
+
+            MessageBox.Show("Git33332232323333333");//ssss
+            MessageBox.Show("(221 + 22223).ToString()");///s
+
+            MessageBox.Show((221 + 22223).ToString());//sss
+            MessageBox.Show("(1+2).Nguyeenx chi Linh3");//ssss
+
+
+            MessageBox.Show((1+223123123).ToString());
+            //sss
+            ///sdasd
+
+
+>>>>>>> 45293214c44ca16ea15f5ba96897fd32c618a08f
 
         }
     }
