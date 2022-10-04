@@ -27,26 +27,7 @@ namespace WpfApp2
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-<<<<<<< HEAD
-            MessageBox.Show("Git2");
 
-            MessageBox.Show("Git");
-
-            MessageBox.Show("Git2");
-            MessageBox.Show("Git");
-            MessageBox.Show("Git23");
-            MessageBox.Show("Git");
-            MessageBox.Show("Git");
-            MessageBox.Show("Git123");
-            MessageBox.Show("Git123");
-
-            MessageBox.Show("Git123");
-            MessageBox.Show("Git");
-
-            MessageBox.Show("Git123");
-
-            double b = 1 + 2 + 4 + 1;
-=======
 
 
             Console.Beep(); //// sssss
@@ -63,7 +44,6 @@ namespace WpfApp2
             ///sdasd
 
 
->>>>>>> 45293214c44ca16ea15f5ba96897fd32c618a08f
 
         }
     }
